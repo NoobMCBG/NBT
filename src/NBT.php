@@ -53,7 +53,6 @@ abstract class NBT{
 	public const TAG_List = 9;
 	public const TAG_Compound = 10;
 	public const TAG_IntArray = 11;
-	createNBT
 
 	/**
 	 * @throws NbtDataException
